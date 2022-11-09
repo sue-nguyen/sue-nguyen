@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/sue-nguyen-/"><img width="32px" alt="linkedin-logo" title="my linkedin" src="https://i.imgur.com/XUZw40U.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.freecodecamp.org/sue-nguyen"><img width="32px" alt="freecodecamp-logo" title="my freecodecamp account" src="https://pbs.twimg.com/profile_images/1276770212927410176/qTgTIejk_400x400.jpg"/></a>
+  <a href="https://www.freecodecamp.org/sue-nguyen"><img width="32px" style="border-radius: 32px;" alt="freecodecamp-logo" title="my freecodecamp account" src="https://pbs.twimg.com/profile_images/1276770212927410176/qTgTIejk_400x400.jpg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.facebook.com/nhatthu242/"><img width="32px" alt="facebook-logo" title="my facebook" src="https://i.imgur.com/mjR9oaO.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
