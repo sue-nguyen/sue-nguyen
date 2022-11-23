@@ -19,12 +19,6 @@
 - 🏖️ A dreamer... 
 - 👨‍🎓 SWE major @ [Case Western Reserve University](https://case.edu/)...
 
-## Recent Github Activity
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="my recent github activity" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sue-nguyen&bg_color=0a304e&color=FFFFFF&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</p>
-
 ## Github Stats
 
 <p align="center">
